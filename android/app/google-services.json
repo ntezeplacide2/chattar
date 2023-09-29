@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267821459388",
+    "project_id": "chatter-69deb",
+    "storage_bucket": "chatter-69deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267821459388:android:405459bcaf704b74002db9",
+        "android_client_info": {
+          "package_name": "com.amigos.chattar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMOd-RHZJTxmsVf0PqjuYmGpXJskmrMdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
